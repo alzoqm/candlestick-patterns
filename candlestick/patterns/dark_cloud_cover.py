@@ -1,4 +1,4 @@
-from candlestick.patterns.candlestick_finder import CandlestickFinder
+from .candlestick_finder import CandlestickFinder
 
 
 class DarkCloudCover(CandlestickFinder):
